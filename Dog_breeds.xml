@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dogbreeds>
+    <breed>
+        <breedType>Shepherd</breedType>
+        <name>Micke</name>
+	    <age>8</age>
+	    <sex>male</sex>
+    </breed>
+	<breed>
+        <breedType>Buldog</breedType>
+        <name>Conor</name>
+	    <age>1</age>
+	    <sex>male</sex>
+    </breed>
+	<breed>
+        <breedType>Duchshund</breedType>
+        <name>Sandy</name>
+	    <age>5</age>
+	    <sex>female</sex>
+    </breed>
+	<breed>
+		<breedType>Pug</breedType>
+        <name>Den</name>
+        <age>4</age>
+	    <sex>male</sex>
+    </breed>  
+	<breed>
+	    <breedType>Poodle</breedType>
+	    <name>Rocky</name>
+	    <age>3</age>
+	    <sex>male</sex>
+    </breed>  
+</dogbreeds>
+   
+		 

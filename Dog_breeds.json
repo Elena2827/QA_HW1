@@ -1,0 +1,34 @@
+{
+	"dogbreeds": [
+		{
+			"breedType": "Shepherd",
+			"name": "Micke",
+			"age": "8",
+			"sex": "male"
+		},
+		{
+			"breedType": "Buldog",
+			"name": "Conor",
+			"age": "1",
+			"sex": "male"
+		},
+		{
+			"breedType": "Duchshund",
+			"name": "Sandy",
+			"age": "5",
+			"sex": "female"
+		},
+		{
+			"breedType": "Pug",
+			"name": "Den",
+			"age": "4",
+			"sex": "male"
+		},
+		{
+			"breedType": "Poodle",
+			"name": "Rocky",
+			"age": "3",
+			"sex": "male"
+		}
+	]
+}
