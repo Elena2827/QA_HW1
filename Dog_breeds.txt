@@ -1,6 +1,0 @@
-breedType	name	age	sex
-Shepherd	Micke	8	male
-Buldog	Conor	1	male
-Duchshund	Sandy	5	female
-Pug	Den	4	male
-Poodle	Rocky	3	male

@@ -1,0 +1,28 @@
+body {
+	background-color: #fdfbf9;
+	font-family: Georgia, "Times New Roman", Times, serif;		 
+}
+
+.block {
+	display: flex;
+	align-items: center;
+}
+
+.block-top {
+	display: flex;
+	align-items: baseline;
+}
+
+h3 {
+	padding-left: 25px;
+}
+
+p {
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+img {
+	height: 80px;
+}
+
