@@ -1,0 +1,8 @@
+Request URL: https://jira.ithillel.com/login.jsp
+Request Method: POST
+Content-Type: application/x-www-form-urlencoded
+data = os_username=1111&os_password=2222&os_destination=&user_role=&atl_token=&login=Log+In
+
+curl -v -d "os_username=1221eb52&os_password=Vera&os_destination=&user_role=&atl_token=&login=Log+In" -H "Content-Type: application/x-www-form-urlencoded"
+
+
