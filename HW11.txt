@@ -1,9 +1,5 @@
-GET  http://151.80.70.42:3000/api/users
-
-POST http://151.80.70.42:3000/api/users
-
-PUT http://151.80.70.42:3000/api/users/{id}
-
-DELETEhttp://151.80.70.42:3000/api/users/{id}
-
-PUT  http://151.80.70.42:3000/api/users/ {refreshAdmins}
+curl -v http://151.80.70.42:3000/api/users
+curl -v -X POST http://151.80.70.42:3000/api/users
+curl -v -X POST -d "{"name":"Lenochka","phone":"Empty","role":"Student"}" -H Content-Type: application/json http://151.80.70.42:3000/api/users
+curl -v -X POST -d "{"id":169,"name":"VASYA 2","phone":"1234","role":"Student","strikes":"1","location":""}" -H "Content-Type: application/json"http://151.80.70.42:3000/api/users/169
+curl -v -X POST -d "{\"id\":302,\"name\":\"kolya\",\"phone\":\"12345\",\"role\":\"Support\",\"location\":\"\",\"strikes\":\"1\"}" -H "Content-type: application/json" http://151.80.70.42:3000/api/users/302
